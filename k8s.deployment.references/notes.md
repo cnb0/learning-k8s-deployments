@@ -1,4 +1,4 @@
-# learning-k8s-deployments
+
 
 - [6 strategies for K8s application deployment](https://thenewstack.io/deployment-strategies/)
 - [Blue Green vs Canary Deployments](https://harness.io/2018/02/blue-green-vs-canary-deployments/)
@@ -22,3 +22,6 @@ to carefully choose the right strategy to make your infrastructure resilient.
 
     6- [shadow]:      release a new version alongside the old version. Incoming
                       traffic is mirrored to the new version and doesn't impact the  response.
+
+               
+```
