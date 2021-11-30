@@ -23,7 +23,7 @@ to carefully choose the right strategy to make your infrastructure resilient.
   traffic is mirrored to the new version and doesn't impact the
   response.
 
-![deployment strategy decision diagram](decision-diagram.png)
+![deployment strategy decision diagram](WS/k8s.deployment.labs.01/decision-diagram.png)
 
 Before experimenting, checkout the following resources:
 - [CNCF prensentation](https://www.youtube.com/watch?v=1oPhfKye5Pg)
